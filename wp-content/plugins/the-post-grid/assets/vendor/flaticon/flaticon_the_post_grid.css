@@ -1,10 +1,10 @@
 @font-face {
     font-family: "flaticon_the_post_grid";
-    src: url("https://a0985043768-lab.github.io/ShuohisPortfolio/wp-content/plugins/the-post-grid/assets/vendor/flaticon/flaticon_the_post_grid.ttf?dd949169929eab44f4d2133b01c9e438") format("truetype"),
-url("https://a0985043768-lab.github.io/ShuohisPortfolio/wp-content/plugins/the-post-grid/assets/vendor/flaticon/flaticon_the_post_grid.woff?dd949169929eab44f4d2133b01c9e438") format("woff"),
-url("https://a0985043768-lab.github.io/ShuohisPortfolio/wp-content/plugins/the-post-grid/assets/vendor/flaticon/flaticon_the_post_grid.woff2?dd949169929eab44f4d2133b01c9e438") format("woff2"),
-url("https://a0985043768-lab.github.io/ShuohisPortfolio/wp-content/plugins/the-post-grid/assets/vendor/flaticon/flaticon_the_post_grid.eot?dd949169929eab44f4d2133b01c9e438#iefix") format("embedded-opentype"),
-url("https://a0985043768-lab.github.io/ShuohisPortfolio/wp-content/plugins/the-post-grid/assets/vendor/flaticon/flaticon_the_post_grid.svg?dd949169929eab44f4d2133b01c9e438#flaticon_the_post_grid") format("svg");
+    src: url("/ShuohisPortfolio//wp-content/plugins/the-post-grid/assets/vendor/flaticon/flaticon_the_post_grid.ttf?dd949169929eab44f4d2133b01c9e438") format("truetype"),
+url("/ShuohisPortfolio//wp-content/plugins/the-post-grid/assets/vendor/flaticon/flaticon_the_post_grid.woff?dd949169929eab44f4d2133b01c9e438") format("woff"),
+url("/ShuohisPortfolio//wp-content/plugins/the-post-grid/assets/vendor/flaticon/flaticon_the_post_grid.woff2?dd949169929eab44f4d2133b01c9e438") format("woff2"),
+url("/ShuohisPortfolio//wp-content/plugins/the-post-grid/assets/vendor/flaticon/flaticon_the_post_grid.eot?dd949169929eab44f4d2133b01c9e438#iefix") format("embedded-opentype"),
+url("/ShuohisPortfolio//wp-content/plugins/the-post-grid/assets/vendor/flaticon/flaticon_the_post_grid.svg?dd949169929eab44f4d2133b01c9e438#flaticon_the_post_grid") format("svg");
 }
 
 .builder-content i[class^="flaticon-"]:before,

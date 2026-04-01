@@ -284,7 +284,7 @@
     width: 840px;
     height: 300px;
     position: relative;
-    background-image: url(https://a0985043768-lab.github.io/ShuohisPortfolio/wp-content/plugins/sticky-header-effects-for-elementor/assets/images/banner/she-wdkit-frame.png);
+    background-image: url(/ShuohisPortfolio//wp-content/plugins/sticky-header-effects-for-elementor/assets/images/banner/she-wdkit-frame.png);
     background-size: cover
 }
 
@@ -312,7 +312,7 @@
     width: 23px;
     top: 13px;
     right: 20px;
-    background-image: url(https://a0985043768-lab.github.io/ShuohisPortfolio/wp-content/plugins/sticky-header-effects-for-elementor/assets/svg/navbox/SHE-1.svg);
+    background-image: url(/ShuohisPortfolio//wp-content/plugins/sticky-header-effects-for-elementor/assets/svg/navbox/SHE-1.svg);
     background-position: center center;
     background-size: cover;
     z-index: 1;
