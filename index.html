@@ -123,6 +123,12 @@ img:is([sizes=auto i],[sizes^="auto," i]){contain-intrinsic-size:3000px 1500px}
     height: 300px; /* 你可以自己決定高度 */
     width: 100%;
     object-fit: cover; /* 關鍵！這會讓圖片自動裁切並填滿框框，不變形 */
+}
+/* 強制移除所有可能的預載遮罩 */
+.wpr-preloader-wrap, #preloader, .preloader {
+    display: none !important;
+    opacity: 0 !important;
+    visibility: hidden !important;
 }		</style>
 		<style id="wpr_lightbox_styles">
 				.lg-backdrop {
